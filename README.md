@@ -58,4 +58,5 @@ Project Architecture and workflow:
     Price_t = Base × (1 + λ × NormalizedDemand)
     Ensures smooth variation between 0.5x to 2x base price.
 
+Architecture diagram (included as a PNG image)
 
